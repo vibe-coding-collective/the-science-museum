@@ -1,7 +1,6 @@
 # Vibe Coding at the Science Museum
 Follow us everywhere to keep an eye on new events!
 [Linkedin](https://www.linkedin.com/company/vibe-coding-collective/ "Linkedin") / [Instagram](https://www.instagram.com/vibecoding.collective "Instagram") / [Twitter](https://x.com/vcodersglobal?s=21 "Twitter") / [Luma](https://luma.com/Vibecoders.global "Luma") / [Meetup](https://www.meetup.com/vibe-coding-collective/ "Meetup")
-[vibecoders.global](https://vibecoders.global "vibecoders.global")
 
 <img width="322" height="324" alt="image" src="https://github.com/user-attachments/assets/54abb425-c53c-4e31-9d9d-ad38bd01aed4" />
 
@@ -28,3 +27,6 @@ Follow us everywhere to keep an eye on new events!
 ##
 
 Have something to say about our events? Leave it here: [feedback form](https://forms.gle/VHfgQbhPrsqY2Lu38 "feedback form")!
+
+##
+[vibecoders.global](https://vibecoders.global "vibecoders.global")
