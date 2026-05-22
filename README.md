@@ -2,8 +2,8 @@
 Follow us everywhere to keep an eye on new events!
 [Linkedin](https://www.linkedin.com/company/vibe-coding-collective/ "Linkedin") / [Instagram](https://www.instagram.com/vibecoding.collective "Instagram") / [Twitter](https://x.com/vcodersglobal?s=21 "Twitter") / [Luma](https://luma.com/Vibecoders.global "Luma") / [Meetup](https://www.meetup.com/vibe-coding-collective/ "Meetup")
 
-WIFI: SMG-Guest
-Username: Events
+WIFI: SMG-Guest, 
+Username: Events, 
 Password: Events
 
 <img width="322" height="324" alt="image" src="https://github.com/user-attachments/assets/54abb425-c53c-4e31-9d9d-ad38bd01aed4" />
