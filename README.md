@@ -13,7 +13,7 @@ Password: Events
 
 
 ## ElevenLabs Credits
-1. Go to [elevencodes.lovable.app]([elevencodes.lovable.app "elevencodes.lovable.app](https://elevencodes.lovable.app)")
+1. Go to [elevencodes.lovable.app](https://elevencodes.lovable.app)
 2. Enter your email address and click ‘Redeem Now’
 3. Create an account using this email address, or log in to an existing account using the same address
 4. Select a platform (Creative or Agents). You can change this later
